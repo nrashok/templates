@@ -1,0 +1,6 @@
+"guide","question","correct answer","wrong answer1","wrong answer2","wrong answer3"
+"5019","Which is an open source, container-based, operating system level virtualization technology","OpenVZ","KVM","Vmware","VirtualBox"
+"5023","Which openstack's component is also called as swift","Object Store","Dashboard","Image Service","Identity"
+"5022","What type of model is Openstack","IaaS","DaaS","SaaS","PaaS"
+"5021","What are the components of an Xen","All of these","number of network devices, connected to the virtual network","virtual machine configuration information","one virtual disk that contains a bootable operating system"
+"5020","Which of the Xen","virtual machine host environment","hypervisor","virtual machine monitor","None of these."
